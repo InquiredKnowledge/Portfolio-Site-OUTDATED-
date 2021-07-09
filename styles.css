@@ -1,0 +1,62 @@
+/* Isaac Kirk
+  Portfolio Website Final
+  CIS-130-102
+  index.html
+  5/3/2020 */
+
+  * {
+    margin: 0;
+  }
+  html {
+    box-sizing: border-box;
+    font-family: arial, helvetica, sans-serif;
+    color: var(--dark);
+  }
+
+  body {
+  padding: 0;
+  margin: 0px 100px;
+  background: #ccc;
+  line-height: 1.4;
+  }
+
+  section {
+    background: #ffffff
+  }
+
+/* Header & Navigation */
+  header {
+    padding: 10px;
+    max-height: 90px;
+    background-color: #181818;
+  }
+  nav {
+   text-align: center;
+   font-size: 22px;
+   margin: 30px;
+   padding: auto;
+  }
+
+  a:link{
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+
+  a:hover{
+    font-size: 24px;
+    text-decoration: underline;
+  }
+  ul {
+    padding-right: 50px;
+  }
+  li {
+    margin: 0 10px;
+    display: inline;
+  }
+
+/* imagestart formating */
+  .imagestart{
+    padding-top: 8px;
+    padding-left: 4px;
+    background-image:
+  }
